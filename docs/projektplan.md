@@ -18,7 +18,7 @@
 ## Problembeskrivning<a id="intro"></a>
 Appen som ska utvecklas är till för att lösa problemet med dålig kommunikation mellan hantverkare och kunder.
 Kommunikationen anses ofta vara bristande från hantverkares sida och kunder känner att de inte har någon koll.
-Problemet leder till att kunder uppfattar hantverkare som oseriösa och ett hantverkarbranschen ges ett dåligt rykte.
+Problemet leder till att kunder uppfattar hantverkare som oseriösa och att hantverkarbranschen får ett dåligt rykte.
 Appen ska säljas till kund som en SaaS-lösning.
 
 ## Målgrupp och användare<a id="users"></a>
@@ -46,11 +46,11 @@ Foundation for Apps [(AngularJS)](https://angularjs.org). Arbetar med REST mot l
 5. **Notifikation-service.**
 Meddelar kund (6), chef (7), hantverkare (8). _(E-post, SMS?)_
 6. **Kund.**
-Ringer upp byggföretags chef (7), får notifikationer pushade till sig.
+Ringer upp byggföretags chef (7), får notifikationer pushade till sig (5).
 7. **Chef.**
-Arbetar mot klient (4) via inloggning som administratör. Fulla rättigheter för ändringar och tillägg i arbetsordrar. Hanterar kunder, skapar fakturor, hanterar tidsplanering.Får push-notifikationer från service (5).
+Arbetar mot klient (4) via inloggning som administratör. Fulla rättigheter för ändringar och tillägg i arbetsordrar. Hanterar kunder, skapar fakturor, hanterar tidsplanering. Får push-notifikationer från service (5).
 8. **Hantverkare.**
-Arbetar mot klient (4) via inloggning som hantverkare. Rapporterar in tid om arbetad tid till arbetsordrar.
+Arbetar mot klient (4) via inloggning som hantverkare. Rapporterar in tid om arbetad tid till arbetsordrar. Får push-notifikationer från service (5).
 
 ## Teknikval<a id="tech"></a>
 Beskrivning och information om de teknikval som gjorts för webbappen.
