@@ -2,11 +2,15 @@
 *Grupp Parachute*
 
 **Innehåll:**
+
 <a href="#intro">Introduktion och beskrivning</a>
+
 <a href="#users">Målgrupp och användare</a>
 * <a href="#mainuser">Huvudanvändare </a>
 * <a href="#secondaryuser">Sekundära användare</a>
+
 <a href="#visualization">Visualisering av koncept och dataflöde</a>
+
 <a href="#tech">Teknikval</a>
 * <a href="#backend">Backend </a>
 * <a href="#frontend">Frontend </a>
@@ -53,11 +57,16 @@ Beskrivning och information om de teknikval som gjorts för webbappen.
 
 ### Backend<a id="backend"></a>
 **Server:** Apache2
+
 **Språk:** PHP 5.6
+
 **Databas:** MySQL
+
 **Transport:** REST-API, HTTP
 
 ### Frontend<a id="frontend"></a>
 **CSS/SASS:** Foundation for Apps
+
 **JavaScript:** AngularJS (ingår i Foundation for Apps)
+
 **Statiska sidor:** HTML5, Single Page Application
