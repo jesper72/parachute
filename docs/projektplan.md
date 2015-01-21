@@ -16,7 +16,7 @@
 * <a href="#frontend">Frontend </a>
 
 ## Problembeskrivning<a id="intro"></a>
-Appen som ska utvecklas är till för att lösa problemet med dålig kommunikation mellan hantverkare och kunder.
+Appen som ska utvecklas är till för att lösa problemet med dålig kommunikation mellan hantverkare och kunder. Appen kommer också att digitalisera och effektivisera planeringen och uppföljningen av arbetsorders.
 Kommunikationen anses ofta vara bristande från hantverkares sida och kunder känner att de inte har någon koll.
 Problemet leder till att kunder uppfattar hantverkare som oseriösa och att hantverkarbranschen får ett dåligt rykte.
 Appen ska säljas till kund som en SaaS-lösning.
