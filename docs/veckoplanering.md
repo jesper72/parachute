@@ -13,9 +13,9 @@
 - [x] ~~Uppdragstagare med kontaktuppgifter.~~
 - [x] ~~Projektplanen påbörjas. Så mycket som möjligt nedan skall finnas med. Dock kan det i många fall kräva ett kundmöte innan allt kan fastställas. Projektplanen skall innehålla:~~
     - [ ] Projektnamn.
-    - [ ] Bakgrund till projektets uppkomst.
-    - [ ] Syfte med projektet.
-    - [ ] Projektets mål.
+    - [x] ~~Bakgrund till projektets uppkomst.~~
+    - [x] ~~Syfte med projektet.~~
+    - [x] ~~Projektets mål.~~
     - [ ] Resursplan.
     - [ ] Tidplan för projektet, med milstolpar för deadlines.
     - [ ] Kommunikationsplan.
