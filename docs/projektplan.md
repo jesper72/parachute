@@ -29,7 +29,7 @@ Huvudanvändare av appen är byggföretags ansvariga (chefer) och byggföretags 
 Byggföretagens kunder kommer att få någon slags notifikation om tidsplanering.
 
 ## Visualisering av koncept och dataflöde<a id="visualization"></a>
-![Visualisering av app](/parachuteapp.png)
+![Visualisering av app](https://github.com/webbprojekt1-parachute/parachute/blob/master/docs/parachuteapp.png)
 
 1. **Fort Nox REST-API end-points.**
 HTTP-transport.
