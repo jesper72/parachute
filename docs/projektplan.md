@@ -26,8 +26,10 @@ Appens målgrupp är hantverksföretag som vill förbättra kommunikation och ha
 
 ### Huvudanvändare<a id="mainuser"></a>
 Huvudanvändare av appen är byggföretags ansvariga (chefer) och byggföretags hantverkare.
+
 **Ansvariga användare** kommer att ha tillgång till administratörsfunktionalitet, t ex lägga in ordrar, uppdatera tidsrapportering och hantera fakturering.
-**Hantverkare** kommer att ha tillgång till en mer avskalad sida efter inloggning. Hantverkare kommer att rapportera tider och ta del av tidsplanering.  
+
+**Hantverkare** kommer att ha tillgång till en mer avskalad sida efter inloggning. Hantverkare kommer att rapportera tider och ta del av tidsplanering.
 
 ### Sekundära användare<a id="secondaryuser"></a>
 Byggföretagens kunder kommer att få någon slags notifikation om tidsplanering.
